@@ -1,0 +1,31 @@
+Ticker,Summary,Sentiment,Sentiment Score,URL
+PLTR,"Firm-fixed-price award was worth $32.5 million. Palantir to support Air Force’s Project Brown Heron, NORAD-NORTHCOM",POSITIVE,0.9685001969337463,https://finance.yahoo.com/news/palantir-technologies-strikes-32-5m-120110104.html
+PLTR,Company is investing heavily in its Foundry platform. Management projects 30% per year growth for the foreseeable future,POSITIVE,0.9897981882095337,https://finance.yahoo.com/news/palantir-could-dominate-data-field-105336199.html
+PLTR,"The firm's top stock buys for the quarter were Amazon.com, Palantir Technologies.",NEGATIVE,0.9482470750808716,https://finance.yahoo.com/news/george-soros-firm-finally-exits-230142049.html
+PLTR,Palantir Technologies and Splunk are in the spotlight.,POSITIVE,0.9993419647216797,https://finance.yahoo.com/news/palantir-vs-splunk-data-analytics-164334452.html
+PLTR,Software-as-a-service companies have been seeing exponential rise in interest from investors.,POSITIVE,0.9946246147155762,https://finance.yahoo.com/news/10-best-saas-stocks-buy-170819461.html
+PLTR,The contract includes a base year and an additional one-year extension option. Shares have jumped 141.6% over the past year,NEGATIVE,0.9502090811729431,https://finance.yahoo.com/news/palantir-technologies-wins-united-states-170328779.html
+PLTR,"Palantir to provide data-as-a-service platform to DAF, SMC/ECX, NORAD-NORTHCOM.",NEGATIVE,0.8948431015014648,https://finance.yahoo.com/news/palantir-space-force-expand-partnership-105900988.html
+PLTR,"The contract is valued at a total of $111 million, inclusive of options. Palantir’s platform has been used by USSOCOM in real-time mission operations",POSITIVE,0.9307973980903625,https://finance.yahoo.com/news/palantir-awarded-111m-contract-mission-105900419.html
+PLTR,Software company will provide software for advanced critical missions. Palantir reported 49% revenue growth year-over-year in Q1,POSITIVE,0.9863005876541138,https://finance.yahoo.com/news/palantir-strengthens-ties-u-space-075736424.html
+PLTR,Shares of Wendy’s Company and Palantir Technologies are recent winners.,POSITIVE,0.9997671246528625,https://finance.yahoo.com/news/better-meme-stock-wendys-palantir-132440594.html
+BB,The product is being used for the mass production of a new SUV called UNI-K. QNX software is being used in the cockpit of Changan’s new SUV,NEGATIVE,0.996949315071106,https://finance.yahoo.com/news/blackberry-bb-partners-bitech-digital-125812985.html
+BB,I wouldn’t be so quick to continue investing in ‘pump-and-dump’ stocks.,NEGATIVE,0.985684335231781,https://ca.finance.yahoo.com/news/blackberry-stock-tsx-bb-bubble-124502106.html
+BB,"QNX NeutrinoS is being installed in Changan Automobile's new SUV, the UNI-K.",NEGATIVE,0.9263762831687927,https://finance.yahoo.com/news/blackberry-bitech-team-build-safe-010000530.html
+BB,"Company to hold conference call on Thursday, June 24, 2021.",POSITIVE,0.957098662853241,https://finance.yahoo.com/news/blackberry-announce-first-quarter-fiscal-210000303.html
+BB,"‘Reddit Mania’ led to a share rally for AMC. Chad says fundamentals are getting better, but ‘not back to where’",NEGATIVE,0.9962477087974548,https://finance.yahoo.com/video/meme-stock-frenzy-outcome-positive-152424294.html
+BB,SEC says it is looking into signs of market manipulation. Individual investors are driving the stock rally,NEGATIVE,0.996661365032196,https://finance.yahoo.com/news/1-meme-stock-surge-lifts-174413990.html
+BB,Redditors targeted small-cap stocks with low prices. Short squeeze is a new tool for traders to make money,NEGATIVE,0.6935007572174072,https://ca.finance.yahoo.com/news/why-blackberry-tsx-bb-stock-175819643.html
+BB,Brokers expect Blackberry to return to profit next year. Is Blackberry the next big meme stock?,NEGATIVE,0.9979994297027588,https://uk.finance.yahoo.com/news/blackberry-bb-share-price-explode-144613189.html
+BB,Cybersecurity software and services company has been on a tear recently.,POSITIVE,0.9122214913368225,https://finance.yahoo.com/news/blackberry-bb-outpaces-stock-market-215009960.html
+BB,Well Health Technologies is poised for another six to nine months of outperformance.,NEGATIVE,0.9906409382820129,https://ca.finance.yahoo.com/news/forget-blackberry-gme-well-health-193051278.html
+FUV,"Investors who purchased Arcimoto securities between February 14, 2018 and March 22, 2021 should contact the firm.",POSITIVE,0.983799159526825,https://finance.yahoo.com/news/fuv-investor-notice-rosen-national-191100124.html
+FUV,"Complaint: Arcimoto, Inc. and ACADIA Pharmaceuticals violated federal securities laws.",NEGATIVE,0.9972888827323914,https://finance.yahoo.com/news/fuv-acad-ebs-last-few-150000116.html
+FUV,"Investors who purchased Arcimoto securities between February 14, 2018 and March 22, 2021 are eligible to seek compensation.",NEGATIVE,0.951757550239563,https://finance.yahoo.com/news/fuv-breaking-news-rosen-respected-001500524.html
+FUV,"Investors who purchased Arcimoto securities between February 14, 2018 and March 22, 2021 can seek compensation.",NEGATIVE,0.9933204054832458,https://finance.yahoo.com/news/fuv-final-deadline-rosen-global-194000204.html
+FUV,"Complaint: Arcimoto, ACADIA Pharmaceuticals, and others violated securities laws.",NEGATIVE,0.9969899654388428,https://finance.yahoo.com/news/fuv-acad-ebs-few-days-140000164.html
+FUV,"Investors have until June 18, 2021 to file lead plaintiff motion. Arcimoto, CAD, and others have until July 31, 2021 deadlines to seek damages",NEGATIVE,0.9566290974617004,https://finance.yahoo.com/news/deadline-alert-fuv-acad-cciv-154500768.html
+FUV,Is Arcimoto's debt-to-equity ratio appropriate?,NEGATIVE,0.9871603846549988,https://finance.yahoo.com/news/does-arcimoto-nasdaq-fuv-healthy-061953049.html
+FUV,"Complaint: Arcimoto, Inc. and ACADIA Pharmaceuticals breached their fiduciary duties.",NEGATIVE,0.9988166689872742,https://finance.yahoo.com/news/fuv-acad-class-actions-bronstein-150000043.html
+FUV,"Complaint: Arcimoto, ACADIA Pharmaceuticals and others failed to disclose material information.",NEGATIVE,0.9997050762176514,https://finance.yahoo.com/news/fuv-acad-ebs-upcoming-deadlines-140000968.html
+FUV,"Complaint: Arcimoto, Inc. and ACADIA Pharmaceuticals breached their fiduciary duties.",NEGATIVE,0.9988166689872742,https://finance.yahoo.com/news/fuv-acad-ebs-approaching-deadlines-150000379.html
